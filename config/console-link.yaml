@@ -1,9 +1,9 @@
 apiVersion: console.openshift.io/v1
 kind: ConsoleLink
 metadata:
-  name: application-menu-rh-developer-blog
+  name: demo
 spec:
-  href: 'https://developers.redhat.com/topics/kubernetes'
+  href: 'https://mon.ypf.com:3000/d/OWM6lKcVz/backend-openshift-ypf-app-x-servicio-prod?orgId=1&refresh=5m'
   location: ApplicationMenu
   text: Demo de GitOps
   applicationMenu:
