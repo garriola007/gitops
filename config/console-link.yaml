@@ -3,7 +3,7 @@ kind: ConsoleLink
 metadata:
   name: demo
 spec:
-  href: 'https://mon.ypf.com:3000/d/OWM6lKcVz/backend-openshift-ypf-app-x-servicio-prod?orgId=1&refresh=5m'
+  href: 'https://mon.ypf.com:3000/d/FxzSrRpIz/backend-openshift-ypf-app-global-prod?orgId=1&refresh=5m&from=now-6h&to=now'
   location: ApplicationMenu
   text: Demo de GitOps
   applicationMenu:
