@@ -5,7 +5,7 @@ metadata:
 spec:
   href: 'https://mon.ypf.com:3000/d/FxzSrRpIz/backend-openshift-ypf-app-global-prod?orgId=1&refresh=5m&from=now-6h&to=now'
   location: ApplicationMenu
-  text: Comienza la Demo de GitOps
+  text: Demo iniciada de GitOps
   applicationMenu:
     section: Kubernetes Blogs
     imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
